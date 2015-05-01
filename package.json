@@ -1,0 +1,20 @@
+{
+  "name": "drop-sudo",
+  "version": "0.0.1",
+  "description": "drops sudo privileges",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PavelVanecek/drop-sudo.git"
+  },
+  "keywords": [
+    "sudo",
+    "npm"
+  ],
+  "author": "Pavel Vanecek <email@pavelvanecek.cz>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/PavelVanecek/drop-sudo/issues"
+  },
+  "homepage": "https://github.com/PavelVanecek/drop-sudo"
+}
